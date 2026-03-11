@@ -1,0 +1,33 @@
+# Build artifacts
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.list
+*.map
+
+/Debug/
+/Release/
+/build/
+/out/
+/bin/
+/obj/
+
+# IDE files
+.settings/
+.metadata/
+*.launch
+*.prefs
+.project
+.cproject
+
+# Backup and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
